@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5616AQG5QpVFgsp3ZA/profile-displaybackgroundimage-shrink_200_800/0/1519587818032?e=2147483647&v=beta&t=Z73ez1Sl0gj9blsPpby2sTgCcdAlxfvpFYPMDX9ostc)
-<h1 align="center">Hi 👋, I'm Víctor</h1>
+<h1 align="center">Hi 👋, I'm Víctor Chocano</h1>
 <h3 align="center">Soy analista de datos, me apasionan encontrar en ellos las soluciones a diversos problemas. ¡Los datos son un mundo fascinante!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
